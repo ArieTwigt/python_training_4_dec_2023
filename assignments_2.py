@@ -35,4 +35,15 @@ first_letter = full_name_split[0][0]
 full_name_abbrv = f"{first_letter}. {full_name_split[1]} {full_name_split[2]}"
 full_name_abbrv
 
+
+### ASSIGNMENT 3
+
+# %%
+nationality = "Norway"
+
+# %% "E. Haaland .Jr - Nationality: Norway"
+f"{full_name_abbrv} - Nationality: {nationality}"
+
+# %%
+
 # %%
